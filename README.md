@@ -3,8 +3,8 @@
   <br/>
  Hi, I'm Abdullah Alfaqi
 </h2>
-<p align="center">
-  
+
+<p align="center" style="text-align: center;">
 <!--- HTML --->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
@@ -26,6 +26,9 @@
 <!--- NextJS --->
 <a href="https://nextjs.org" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="60px" style="padding-right:10px; padding-left:10px;"/></a>
+<!--- MongoDB --->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40px" style="padding-right:10px;padding-left:10px;"/></a>
 </p>
 
 <br/>
