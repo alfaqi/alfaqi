@@ -1,7 +1,7 @@
 <h2 align="center">
   Welcome to my GitHub Repository
   <br/>
- Hi, I'm Abdullah Alfaqi
+ I'm Abdullah Alfaqi
 </h2>
 
 <p align="center" style="text-align: center;">
