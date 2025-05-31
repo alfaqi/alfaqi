@@ -1,9 +1,11 @@
-<h2 align="center">
-  Welcome to my GitHub Repository
-  <br/>
- I'm Abdullah Alfaqi
-</h2>
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
+<p align="center">
+  <b>Hi, I'm Abdullah Alfaqi — Full-Stack Developer</b><br/>
+  Passionate about building performant web applications solutions using modern technologies.
+</p>
+
+<hr/>
 <p align="center" style="text-align: center;">
 <!--- HTML --->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
