@@ -21,7 +21,7 @@
 <img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="25px" style="padding-right:10px; padding-left:10px;"/></a>
 <!--- HardHat --->
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-<img align="left" alt="GitScm" width="40px" style="padding-right:10px; padding-left:10px;" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /></a>
+<img align="left" alt="HardHat" width="40px" style="padding-right:10px; padding-left:10px;" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /></a>
 <!--- React --->
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40px" style="padding-right:10px;padding-left:10px;"/></a>
