@@ -38,10 +38,9 @@
 #
 
 <!--- Stats --->
-<p align="center">
-<img  width="47%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alfaqi&show_icons=true&theme=aura&count_private=true&hide_border=true" />
-<img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=alfaqi&theme=aura&hide_border=true" />
-<img  align="center" VALIGN=TOP width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaqi&hide_border=true&theme=aura&layout=compact&hide_progress=false" />
-</p>
+<div align="center">
+<img  width="33%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alfaqi&show_icons=true&theme=aura&count_private=true&hide_border=true" />
+<img  width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=alfaqi&theme=aura&hide_border=true" />
+<img  width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaqi&hide_border=true&theme=aura&layout=compact&hide_progress=true" />
+</div>
 
-<br/>
